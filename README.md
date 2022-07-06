@@ -5,3 +5,5 @@
 - Use importação para popular o banco
 - Saiba lidar com COMMIT e ROLLBACK
 - Trabalhe com Triggers e define sequências
+
+<img src="Diagrama_Banco_de_Dados.png" alt="Diagrama"/>
